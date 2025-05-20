@@ -1,4 +1,4 @@
-# Nuxt Minimal Starter
+# Guide to start the application
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
